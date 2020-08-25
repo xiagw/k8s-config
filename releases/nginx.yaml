@@ -17,7 +17,7 @@ spec:
     name: nginx
     version: 3.3.2
   values:
-    usePassword: true
+    usePassword: false
     image:
       registry: docker.io
       repository: bitnami/nginx

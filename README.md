@@ -1,2 +1,2 @@
 # k8s-config
-# commit -S
+# commit -S (signed)
